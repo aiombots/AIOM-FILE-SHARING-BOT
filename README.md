@@ -25,10 +25,6 @@ I Guess This Will Be Usefull For Many People....***
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ajvadntr/AIOM-FILE-SHARING-BOT)</br>
 
-### Deploy To Railway
-
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fajvadntr%2FAIOM-FILE-SHARING-BOT&envs=ADMINS%2CAPI_HASH%2CAPP_ID%2CCHANNEL_ID%2CFORCE_SUB_CHANNEL%2CFORCE_SUB_MESSAGE%2COWNER_ID%2CSTART_MESSAGE%2CTG_BOT_TOKEN&optionalEnvs=ADMINS&ADMINSDesc=A+space+separated+list+of+user_ids+of+Admins%2C+they+can+only+create+links&API_HASHDesc=your+api+hash%2C+take+it+from+my.telegram.org&APP_IDDesc=your+app+id%2C+take+it+from+my.telegram.org&CHANNEL_IDDesc=make+a+channel+%28database+channel%29%2C+then+make+the+bot+as+admin+in+channel%2C+and+it%27s+id+paste+it+here++&FORCE_SUB_CHANNELDesc=id+of+the+channel+or+group%2C+if+you+don%27t+want+to+enable+force+sub+feature+else+put+0&FORCE_SUB_MESSAGEDesc=Optional%3A+Force+Sub+message+of+bot%2C+use+HTML+parsemode+format&OWNER_IDDesc=An+integer+of+consisting+of+your+owner+ID&START_MESSAGEDesc=Optional%3A+start+message+of+bot%2C+use+HTML+parse+mode+format&TG_BOT_TOKENDesc=Your+Bot+token%2C+Get+it+from+%40Botfather&FORCE_SUB_CHANNELDefault=0&FORCE_SUB_MESSAGEDefault=**Hello+%7Bfirst%7D++You+Need+To+Join+In+My+Channel+To+Use+Me**&START_MESSAGEDefault=**Hello+%7Bfirst%7D++I+Can+Store+Private+Files+In+Specified+Channel+And+Other+Users+Can+Access+It+From+Special+Link.**&referralCode=ajvadntr)
-
 ### Tutorial
 
 <a href="https://youtu.be/LCrkRTMkmzE">
