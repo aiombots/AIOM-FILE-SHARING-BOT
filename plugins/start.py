@@ -1,4 +1,4 @@
-#(©)CodeXBotz
+#(©)CodeXBotz | @ajvadntr
 import os
 import asyncio
 from pyrogram import Client, filters, __version__
@@ -15,7 +15,7 @@ from database.sql import add_user, query_msg, full_userbase
 
 WAIT_MSG = """"<b>Processing ...</b>"""
 
-REPLY_ERROR = """<code>Use this command as a replay to any telegram message with out any spaces.</code>"""
+REPLY_ERROR = """<code>Use This Command As A Replay To Any Telegram Message With Out Any Spaces.</code>"""
 
 #=====================================================================================##
 
@@ -61,7 +61,7 @@ async def start_command(client: Client, message: Message):
         try:
             messages = await get_messages(client, ids)
         except:
-            await message.reply_text("Something went wrong..!")
+            await message.reply_text("Something Went wrong..!")
             return
         await temp_msg.delete()
 
@@ -90,7 +90,7 @@ async def start_command(client: Client, message: Message):
         reply_markup = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("😊 About Me", callback_data = "about"),
+                    InlineKeyboardButton("📑 About Me", callback_data = "about"),
                     InlineKeyboardButton("🔒 Close", callback_data = "close")
                 ]
             ]
@@ -114,7 +114,7 @@ async def not_joined(client: Client, message: Message):
     buttons = [
         [
             InlineKeyboardButton(
-                "Join Channel",
+                "⭕️ Join Our Update Channel ⭕️",
                 url = client.invitelink)
         ]
     ]
