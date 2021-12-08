@@ -20,16 +20,19 @@ I Guess This Will Be Usefull For Many People....***
 - Add Bot To ForceSub Channel As Admin With Invite Users Via Link Permission If You Enabled ForceSub 
 
 ##
-### Installation
-#### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CodeXBotz/File-Sharing-Bot)</br>
+
+### Deploy on Heroku
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ajvadntr/AIOM-FILE-SHARING-BOT)</br>
+
+### Tutorial
+
 <a href="https://youtu.be/LCrkRTMkmzE">
   <img src="https://img.shields.io/badge/How%20to-Deploy-red?logo=youtube" width="147">
 </a><br>
-**Check This Tutorial Video on YouTube for any Help**<br>
-**Thanks to [Erich](https://t.me/ErichDaniken) and his [InFoTel](https://t.me/InFoTel_Group) for this Video**
 
-#### Deploy in your VPS
+**Check This Tutorial Video On YouTube For Any Help**
+#### Deploy In Your VPS
 ````bash
 git clone https://github.com/CodeXBotz/File-Sharing-Bot
 cd File-Sharing-Bot
@@ -83,27 +86,6 @@ python3 main.py
 * `{filename}` - file name of the Document
 * `{previouscaption}` - Original Caption
 
-
-## Support   
-Join Our [Telegram Group](https://www.telegram.dog/codexbotzsupport) For Support/Assistance And Our [Channel](https://www.telegram.dog/codexbotz) For Updates.   
-   
-Report Bugs, Give Feature Requests There..   
-
 ### Credits
 
-- Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
-- Our Support Group Members
-
-### Licence
-[![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
-
-[FILE-SHARING-BOT](https://github.com/CodeXBotz/File-Sharing-Bot/) is Free Software: You can use, study share and improve it at your
-will. Specifically you can redistribute and/or modify it under the terms of the
-[GNU General Public License](https://www.gnu.org/licenses/gpl.html) as
-published by the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version. 
-
-##
-
-   **Star this Repo if you Liked it ⭐⭐⭐**
-
+*****Thanks To [CodeXBotz](https://github.com/CodeXBotz) For This Awesome [Code](https://github.com/CodeXBotz/File-Sharing-Bot)*****
