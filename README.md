@@ -23,7 +23,7 @@ I Guess This Will Be Usefull For Many People....***
 
 ### Deploy To Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ajvadntr/AIOM-FILE-SHARING-BOT)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aiombots/AIOM-FILE-SHARING-BOT)</br>
 
 ### Tutorial
 
