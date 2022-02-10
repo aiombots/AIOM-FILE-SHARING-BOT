@@ -14,7 +14,7 @@ async def cb_handler(client: Bot, query: CallbackQuery):
 │
 ├ Bᴏᴛ Nᴀᴍᴇ : <a href="https://t.me/VINCENZO_CASSANO_ROBOT">Vɪɴᴄᴇɴᴢ๏</a>
 │
-├ Cʜᴀɴɴᴇʟ : <a href="https://t.me/AIOM_BOTS">ƛƖƠM ƁƠƬƧ"</a>
+├ Cʜᴀɴɴᴇʟ : <a href="https://t.me/AIOM_BOTS">ƛƖƠM ƁƠƬƧ</a>
 │
 ├ Vᴇʀsɪᴏɴ : 1.0.2.2  Bᴇᴛᴀ
 │
@@ -22,7 +22,7 @@ async def cb_handler(client: Bot, query: CallbackQuery):
 │
 ├ Dᴇᴠᴇʟᴏᴘᴇʀ : <a href="https://t.me/ajvadntr">Cʟɪᴄᴋ Hᴇʀᴇ</a>
 │
-├ Pᴏᴡᴇʀᴇᴅ Bʏ : <a href="https://t.me/AIOM_BOTS">ƛƖƠM ƁƠƬƧ"</a>
+├ Pᴏᴡᴇʀᴇᴅ Bʏ : <a href="https://t.me/AIOM_BOTS">ƛƖƠM ƁƠƬƧ</a>
 │
 ╰──────[ Tʜᴀɴᴋ Yᴏᴜ ]───⍟</b>""",
             disable_web_page_preview = True,
